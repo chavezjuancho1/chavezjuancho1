@@ -1,2 +1,2 @@
 hola, soy Juan Manuel Chavez
-y hoy es jueves 18 de junio
+y <h1>hoy es jueves 18 de junio</h1>
