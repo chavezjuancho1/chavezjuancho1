@@ -1,5 +1,5 @@
 
-<img src="https://github.com/chavezjuancho1/chavezjuancho1/blob/main/juan%20logo.jpg" />
+<img src="https://github.com/chavezjuancho1/chavezjuancho1/blob/main/juan%20logo2.jpg" />
 
 <h1>hola, soy Juan Manuel Chavez (soy cojo, canso mucho, me falta un tornillo y todos me bloquean de whatsapp) con mi hermana Marcela (es retrasita, no se rian de ella)</h4>
 y <h4>hoy es jueves 18 de junio</h4>
